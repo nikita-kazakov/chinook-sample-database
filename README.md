@@ -4,7 +4,7 @@
 Chinook is an open-source sample database that represents a digital media store. It's for use in demos or for learning how to use a specific web framework without needing to make data up. 
 
 ## ERD Diagram
-Here is the entity relationship diagram (ERD) for this project.
+Here is the [entity relationship diagram](https://dbdiagram.io/d/5daf54c802e6e93440f28407) (ERD) for this project.
 ![Chinook ERD](https://github.com/nikita-kazakov/chinook-sample-database/blob/main/app/assets/images/chinook_erd.png?raw=true)
 ## Versions
 - Ruby on Rails 5.2
