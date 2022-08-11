@@ -23,6 +23,9 @@ Clone the chinook repository:
 Change terminal directory to chinook:
 `cd chinook`
 
+Create database tables:
+`rails db:create`
+
 Run Rails migration to create database tables:
 `rails db:migrate`
 
