@@ -18,7 +18,7 @@ The repo runs on Postgresql. However, since Ruby on Rails handles importing data
 Install Postgresql on your machine.
 
 Clone the chinook repository:
-`git clone https://github.com/nikita-kazakov/chinook`
+`git clone https://github.com/nikita-kazakov/chinook-sample-database`
 
 Change terminal directory to chinook:
 `cd chinook`
